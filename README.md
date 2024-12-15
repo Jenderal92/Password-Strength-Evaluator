@@ -1,5 +1,8 @@
 # Password Strength Evaluator
 
+![Password-Strength-Evaluator Jenderal92](https://github.com/user-attachments/assets/fde99d2f-6d1f-4bfd-be73-864cd82c3c11)
+
+
 **Password Strength Evaluator** is a tool to evaluate the strength of passwords and provide recommendations to improve their security. This tool also checks if your password has been exposed in any data breaches using the **Have I Been Pwned** API. Additionally, it stores the evaluation results in **JSON** and **CSV** files for further analysis in the future.
 
 ## How to Use
