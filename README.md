@@ -60,11 +60,10 @@
 ## Example Output
 
 ```
-===================================================
-|        Password Strength Evaluator 2050         |
-|             By Future Programmer               |
-|     Version 1.0 - Secure Your Digital Life     |
-===================================================
+===============================
+    Password Strength Evaluator
+    By : Python 2.7
+===============================
 Enter a password to evaluate: Password123!
 Password Strength: Strong
 Your password is not found in any known breaches.
